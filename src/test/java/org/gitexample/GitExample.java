@@ -7,6 +7,11 @@ public class GitExample {
 		System.out.println("Print3");
 		System.out.println("Print4");
 		System.out.println("Print5");
+		System.out.println("Print6");
+		System.out.println("Print7");
+		System.out.println("Print8");
+		System.out.println("Print9");
+		System.out.println("Print10");
 	}
 
 }
